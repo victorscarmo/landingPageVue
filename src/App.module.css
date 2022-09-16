@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Lato&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato';
+  color: #161616;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  width: 411px;
+  background: #FFF;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.2);
+}

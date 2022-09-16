@@ -1,0 +1,57 @@
+.headerContainer {
+    display: flex;
+    justify-content: space-between;
+    height: 82px;
+}
+
+.headerLeft {
+    display: inline-flex;
+}
+
+.headerLeft .star {
+    width: 13.73px;
+    height: 13.14px;
+    margin-top: 34.18px;
+    margin-left: 32px;
+}
+
+.headerLeft .headerTitle {
+    width: 63.3px;
+    height: 21.5px;
+    margin-top: 30px;
+    margin-left: 6px;
+
+    font-family: 'Cabin';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17.9137px;
+    line-height: 22px;
+    cursor: pointer;
+}
+
+.headerRight {
+    margin-right: 32.84px;
+}
+
+.headerRight .searchIcon {
+    width: 16px;
+    height: 16px;
+    margin-top: 36px;
+    cursor: pointer;
+}
+
+.headerRight .avatarIcon {
+    width: 16px;
+    height: 18px;
+    margin-left: 24px;
+    margin-top: 35px;
+    cursor: pointer;
+}
+
+.headerRight .cartIcon {
+    width: 16px;
+    height: 15px;
+    margin-left: 24px;
+    margin-top: 36px;
+    cursor: pointer;
+}
